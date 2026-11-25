@@ -1,10 +1,10 @@
 {
   "model": "Q400AS-MT",
   "board": "devkit4827",
-  "version": "0.8.3",
-  "url": "https://github.com/Quimis-Adriano/atualizacoes/releases/download/q400as-mt-v0.8.3/devkit4827-0.8.3.bin",
-  "size": 1629088,
-  "sha256": "302afc4a58f263e33c54b99e95a651fa29449e92873ccf7fd88c4a040cba274d",
-  "notes": "Teste OTA: confirmacao com verificacao (placa dev)",
+  "version": "0.8.4",
+  "url": "https://github.com/Quimis-Adriano/atualizacoes/releases/download/q400as-mt-v0.8.4/devkit4827-0.8.4.bin",
+  "size": 1629280,
+  "sha256": "de00eee3565501e9e8200d308c6ec9fb0aa42b952ec3404eb92795c18c02f0f9",
+  "notes": "OTA: confirmacao adiada com leitura estavel (placa dev)",
   "date": "2026-11-25"
 }
