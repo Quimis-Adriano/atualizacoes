@@ -1,10 +1,10 @@
 {
   "model": "Q400AS-MT",
   "board": "devkit4827",
-  "version": "0.9.0",
-  "url": "https://github.com/Quimis-Adriano/atualizacoes/releases/download/q400as-mt-v0.9.0/devkit4827-0.9.0.bin",
-  "size": 2292576,
-  "sha256": "0c5ac1d96eacc77bf722855bc3b5348705ae46d6f70cf2bc0475d97af00f8147",
-  "notes": "Placa dev: amostra e eletrodo, lotes dos tampões, verificação com padrão, relatórios pela web, perfil USP <791>",
+  "version": "0.9.3",
+  "url": "https://github.com/Quimis-Adriano/atualizacoes/releases/download/q400as-mt-v0.9.3/devkit4827-0.9.3.bin",
+  "size": 2397952,
+  "sha256": "89c15596178eacc7c8bc3f67ef655a108dcffbb6419c265db2dea5fb1936b06e",
+  "notes": "Abertura animada, diário do sistema e novidades",
   "date": "2026-11-27"
 }
