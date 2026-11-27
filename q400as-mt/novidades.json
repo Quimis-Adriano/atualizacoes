@@ -1,0 +1,24 @@
+{
+ "id": "2026-12-teste-p1",
+ "inicio": "2026-11-27",
+ "fim": "2026-12-31",
+ "exibir": "sempre",
+ "placas": [
+  "devkit4827"
+ ],
+ "titulo": {
+  "pt": "Eletrodos para pHmetros",
+  "en": "Electrodes for pH meters"
+ },
+ "texto": {
+  "pt": "Precisão e confiança em suas análises. Consulte o seu revendedor Quimis.",
+  "en": "Precision and confidence in your analyses. Ask your Quimis dealer."
+ },
+ "imagens": {
+  "pt": {
+   "url": "https://github.com/Quimis-Adriano/atualizacoes/releases/download/novidades-2026-12-teste-p1/novidade-2026-12-teste-p1-pt.jpg",
+   "tamanho": 125373,
+   "sha256": "afb6fbcd8a03b1cfd64c98733529be18cd01be43812e1a7d43ba2250013b1b4b"
+  }
+ }
+}
