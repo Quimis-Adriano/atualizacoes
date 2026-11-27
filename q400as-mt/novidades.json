@@ -1,5 +1,5 @@
 {
- "id": "2026-12-teste-p2",
+ "id": "2026-12-teste-p4",
  "inicio": "2026-11-27",
  "fim": "2026-12-31",
  "exibir": "sempre",
@@ -16,9 +16,9 @@
  },
  "imagens": {
   "pt": {
-   "url": "https://github.com/Quimis-Adriano/atualizacoes/releases/download/novidades-2026-12-teste-p2/novidade-2026-12-teste-p2-pt.jpg",
-   "tamanho": 178982,
-   "sha256": "98d99cf412d5c47a296ec49b00790dd4c003ab3159895fbf6a6ed8a69e4b2de1"
+   "url": "https://github.com/Quimis-Adriano/atualizacoes/releases/download/novidades-2026-12-teste-p4/novidade-2026-12-teste-p4-pt.jpg",
+   "tamanho": 178818,
+   "sha256": "e9d2ef1987bcd73c0cd8944ffd6c21d26bbb070f3cbdedfaa3818ccc840a2df3"
   }
  }
 }
