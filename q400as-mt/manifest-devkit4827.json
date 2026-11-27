@@ -5,6 +5,6 @@
   "url": "https://github.com/Quimis-Adriano/atualizacoes/releases/download/q400as-mt-v0.9.0/devkit4827-0.9.0.bin",
   "size": 2292576,
   "sha256": "0c5ac1d96eacc77bf722855bc3b5348705ae46d6f70cf2bc0475d97af00f8147",
-  "notes": "0.9.0 placa dev: C3a-C3d, perfil USP 791, FASE 9 V1, buzzer passivo (PWM 4 kHz)",
+  "notes": "Placa dev: amostra e eletrodo, lotes dos tampões, verificação com padrão, relatórios pela web, perfil USP <791>",
   "date": "2026-11-27"
 }
